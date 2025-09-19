@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "category": "Electronics",
+    "price": 599.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 999.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch",
+    "category": "Wearables",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "T-Shirt",
+    "category": "Clothes",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "name": "Shoes",
+    "category": "Clothes",
+    "price": 79.99,
+    "image": "https://via.placeholder.com/150"
+  }
+
+]

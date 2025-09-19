@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 799.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1519666213635-f76a448e03c4"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "category": "Wearables",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1519241047957-be31d7379a5d"
+  },
+  {
+    "id": 5,
+    "name": "DSLR Camera",
+    "category": "Electronics",
+    "price": 599.99,
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962be90b8e"
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+  },
+  {
+    "id": 7,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1520975918318-3d2c1191f4a3"
+  },
+  {
+    "id": 8,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f"
+  },
+  {
+    "id": 9,
+    "name": "Sneakers",
+    "category": "Clothing",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1528701800489-20be9c6e1d1c"
+  },
+  {
+    "id": 10,
+    "name": "Jacket",
+    "category": "Clothing",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1530845643428-50e8fe3e6f64"
+  },
+  {
+    "id": 11,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+  },
+  {
+    "id": 12,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+  },
+  {
+    "id": 13,
+    "name": "Wristwatch",
+    "category": "Accessories",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1508427953056-b00b8d78ebf0"
+  },
+  {
+    "id": 14,
+    "name": "Handbag",
+    "category": "Accessories",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9"
+  },
+  {
+    "id": 15,
+    "name": "Coffee Maker",
+    "category": "Home Appliances",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1510626176961-4b57d4fbad03"
+  },
+  {
+    "id": 16,
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+  },
+  {
+    "id": 17,
+    "name": "Table Lamp",
+    "category": "Home Decor",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+  },
+  {
+    "id": 18,
+    "name": "Bicycle",
+    "category": "Sports",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231"
+  },
+  {
+    "id": 19,
+    "name": "Football",
+    "category": "Sports",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf"
+  },
+  {
+    "id": 20,
+    "name": "Book",
+    "category": "Books",
+    "price": 14.99,
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
+  }
+]

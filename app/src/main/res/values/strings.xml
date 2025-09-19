@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JDEcom</string>
+    <string name="home_title">Shop Now</string>
+    <string name="category_electronics">Electronics</string>
+    <string name="category_clothing">Clothing</string>
+    <string name="category_accessories">Accessories</string>
+    <string name="search_hint">Search products...</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="cart_title">Your Cart</string>
+    <string name="total_price">Total Price:</string>
+    <string name="checkout">Checkout</string>
+    <string name="product_description_placeholder">A detailed description of the product goes here. High quality, durable, and stylish. Perfect for everyday use.</string>
+    <string name="checkout_success">Order Placed Successfully!</string>
+    <string name="empty_cart">Your cart is empty.</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="voice_search">Voice Search</string>
+    <string name="product_image">Product image</string>
+</resources>

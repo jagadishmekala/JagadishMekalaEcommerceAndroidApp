@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">జేడీకామ్</string>
+    <string name="home_title">ఇప్పుడే షాపింగ్ చేయండి</string>
+    <string name="category_electronics">ఎలక్ట్రానిక్స్</string>
+    <string name="category_clothing">దుస్తులు</string>
+    <string name="category_accessories">యాక్సెసరీలు</string>
+    <string name="search_hint">ఉత్పత్తులను శోధించండి...</string>
+    <string name="add_to_cart">కార్ట్‌కు జోడించు</string>
+    <string name="cart_title">మీ కార్ట్</string>
+    <string name="total_price">మొత్తం ధర:</string>
+    <string name="checkout">చెక్అవుట్</string>
+    <string name="product_description_placeholder">ఉత్పత్తి యొక్క వివరణాత్మక వివరణ ఇక్కడ ఉంది. అధిక నాణ్యత, మన్నికైనది మరియు స్టైలిష్. రోజువారీ ఉపయోగం కోసం పర్ఫెక్ట్.</string>
+    <string name="checkout_success">ఆర్డర్ విజయవంతంగా ఉంచబడింది!</string>
+    <string name="empty_cart">మీ కార్ట్ ఖాళీగా ఉంది.</string>
+    <string name="dark_mode">డార్క్ మోడ్</string>
+    <string name="light_mode">లైట్ మోడ్</string>
+    <string name="voice_search">వాయిస్ శోధన</string>
+    <string name="product_image">Product image</string>
+</resources>
